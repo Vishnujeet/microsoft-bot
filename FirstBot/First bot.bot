@@ -1,0 +1,26 @@
+{
+    "name": "First bot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "6a353f20-f5f6-4848-9872-a87b4990fc5c",
+            "appPassword": "v-o7_xh+V#p0-9fImIt*_:wgN",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "b0dec8d0-a4bf-11e9-bf8f-d94d454ddb88",
+            "name": "http://localhost:3978/api/messages"
+        },
+        {
+            "type": "endpoint",
+            "appId": "a300b656-15fe-4a6b-9964-2d7a45e8d5ca",
+            "appPassword": "JT6MRQ)8fiYn*jL3%ert5*T9x:{;B]#",
+            "endpoint": "http://localhost:63253/api/messages",
+            "id": "170",
+            "name": "alexa"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "C:\\Users\\310241978\\source\\repos\\FirstBot\\FirstBot\\First bot.bot"
+}

@@ -1,0 +1,16 @@
+C:\Users\310241978\source\repos\FirstBot\FirstBot\bin\Release\netcoreapp2.1\appsettings.json
+C:\Users\310241978\source\repos\FirstBot\FirstBot\bin\Release\netcoreapp2.1\FirstBot.deps.json
+C:\Users\310241978\source\repos\FirstBot\FirstBot\bin\Release\netcoreapp2.1\FirstBot.runtimeconfig.json
+C:\Users\310241978\source\repos\FirstBot\FirstBot\bin\Release\netcoreapp2.1\FirstBot.runtimeconfig.dev.json
+C:\Users\310241978\source\repos\FirstBot\FirstBot\bin\Release\netcoreapp2.1\FirstBot.dll
+C:\Users\310241978\source\repos\FirstBot\FirstBot\bin\Release\netcoreapp2.1\FirstBot.pdb
+C:\Users\310241978\source\repos\FirstBot\FirstBot\obj\Release\netcoreapp2.1\FirstBot.csprojAssemblyReference.cache
+C:\Users\310241978\source\repos\FirstBot\FirstBot\obj\Release\netcoreapp2.1\FirstBot.csproj.CoreCompileInputs.cache
+C:\Users\310241978\source\repos\FirstBot\FirstBot\obj\Release\netcoreapp2.1\FirstBot.RazorAssemblyInfo.cache
+C:\Users\310241978\source\repos\FirstBot\FirstBot\obj\Release\netcoreapp2.1\FirstBot.RazorAssemblyInfo.cs
+C:\Users\310241978\source\repos\FirstBot\FirstBot\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\310241978\source\repos\FirstBot\FirstBot\obj\Release\netcoreapp2.1\FirstBot.AssemblyInfoInputs.cache
+C:\Users\310241978\source\repos\FirstBot\FirstBot\obj\Release\netcoreapp2.1\FirstBot.AssemblyInfo.cs
+C:\Users\310241978\source\repos\FirstBot\FirstBot\obj\Release\netcoreapp2.1\FirstBot.RazorTargetAssemblyInfo.cache
+C:\Users\310241978\source\repos\FirstBot\FirstBot\obj\Release\netcoreapp2.1\FirstBot.dll
+C:\Users\310241978\source\repos\FirstBot\FirstBot\obj\Release\netcoreapp2.1\FirstBot.pdb
